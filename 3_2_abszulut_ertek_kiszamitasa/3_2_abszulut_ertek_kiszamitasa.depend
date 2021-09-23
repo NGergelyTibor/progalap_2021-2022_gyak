@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632389473 source:/home/stud2021/nemesi1/C projects/3_2_abszulut_ertek_kiszamitasa/main.c
+	<stdio.h>
+	<stdlib.h>
+
