@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632387306 source:/home/stud2021/nemesi1/C projects/3_1_parossag_vizsgalat/main.c
+	<stdio.h>
+	<stdlib.h>
+
