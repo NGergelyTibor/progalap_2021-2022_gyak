@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632934953 source:c:\users\nemesi1\documents\c files\fonix_program\1. feladat\haromszog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
