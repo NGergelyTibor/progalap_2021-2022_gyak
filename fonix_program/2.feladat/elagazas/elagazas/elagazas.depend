@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633539864 source:c:\users\nemesi1\documents\c files\fonix_program\2.feladat\elagazas\elagazas\main.c
+	<stdio.h>
+	<stdlib.h>
+
